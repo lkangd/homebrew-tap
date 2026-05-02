@@ -1,8 +1,8 @@
 class CcEnv < Formula
   desc "CLI tool for managing Claude Code runtime environment configurations"
   homepage "https://github.com/lkangd/cc-env"
-  url "https://registry.npmjs.org/@lkangd/cc-env/-/cc-env-1.3.1.tgz"
-  sha256 "7db061e1922f40d7cfabda616e733b721bdc0f9ee289e3d247f0383c8632e3bd"
+  url "https://registry.npmjs.org/@lkangd/cc-env/-/cc-env-1.4.0.tgz"
+  sha256 "5ac0a8aaaab259decbaab57e4a4cba9aa105b13784fff5f555861465e0fc5eab"
   license "ISC"
 
   depends_on "node@20"
