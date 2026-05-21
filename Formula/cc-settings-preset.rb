@@ -1,8 +1,8 @@
 class CcEnv < Formula
   desc "CLI tool for managing Claude Code runtime settings presets"
   homepage "https://github.com/lkangd/cc-settings-preset"
-  url "https://registry.npmjs.org/@lkangd/cc-settings-preset/-/cc-settings-preset-1.2.0.tgz"
-  sha256 "0ca0dcb5eeb4540b48e32714d85dd7804b616534edd134b167e8c23f7c19bd3e"
+  url "https://registry.npmjs.org/@lkangd/cc-settings-preset/-/cc-settings-preset-1.0.0.tgz"
+  sha256 "e9518cf3297ddb66faab4c69bc674adfc8465140597cf06397b90e9043657f93"
   license "ISC"
 
   depends_on "node@20"
