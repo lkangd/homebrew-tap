@@ -1,8 +1,8 @@
 class CcSettingsPreset < Formula
   desc "A switchable, reusable runtime settings preset selector for Claude Code"
   homepage "https://github.com/lkangd/cc-settings-preset"
-  url "https://registry.npmjs.org/@lkangd/cc-settings-preset/-/cc-settings-preset-1.0.5.tgz"
-  sha256 "16f36a44882d57e93bdaf95b97d47c45959fc89bef6ebc3eb2cff2d23ca420ae"
+  url "https://registry.npmjs.org/@lkangd/cc-settings-preset/-/cc-settings-preset-1.0.6.tgz"
+  sha256 "8479ca536f5e68324a19595f3eef90ebbc8dae878dd5bc4d507d4e691ef7c3bf"
   license "ISC"
 
   depends_on "node@20"
